@@ -1,0 +1,12 @@
+{
+  "name": "bot121_vbluno51_mbed-os",
+  "version": "0.0.1",
+  "bin": "./source",
+  "description": "Demo code for the VBLUn51 board in VNG Bot Battle 12+1 competition",
+  "author": "VNG IoT Lab",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "mbed-drivers": "*",
+    "ble": "^2.0.0"
+  }
+}
